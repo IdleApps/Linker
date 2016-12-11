@@ -20,7 +20,8 @@ class LoginViewController: UIViewController {
     @IBOutlet var loginAccountAction: ShakingButton!
     
     override func viewDidLoad() {
-        super.viewDidLoad()  
+        super.viewDidLoad()
+        print("Testing")
     }
     
     
